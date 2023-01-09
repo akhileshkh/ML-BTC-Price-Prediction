@@ -1,0 +1,9 @@
+Results of using the Adaboost algorithm topredict the direction of Bitcoin Price 3 days in the future:
+
+total: 178
+correct: 108
+true up: 43
+false up: 30
+true down: 65
+false down: 40
+accuracy:0.6067415730337079
